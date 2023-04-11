@@ -1,0 +1,5 @@
+../Core/GC9A01/GC9A01_port.c:20:6:SPI_SendByte	16	static
+../Core/GC9A01/GC9A01_port.c:35:6:TFT_send_cmd	16	static
+../Core/GC9A01/GC9A01_port.c:48:6:TFT_send_data	16	static
+../Core/GC9A01/GC9A01_port.c:53:6:TFT_delay_ms	16	static
+../Core/GC9A01/GC9A01_port.c:58:6:TFT_delay_us	16	static
